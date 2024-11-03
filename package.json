@@ -2,7 +2,7 @@
   "name": "@dvcol/svelte-lib-template",
   "type": "module",
   "version": "1.6.1",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.12.3",
   "description": "<description>",
   "homepage": "https://github.com/dvcol/svelte-lib-template",
   "bugs": "https://github.com/dvcol/svelte-lib-template/issues",
