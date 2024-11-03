@@ -1,2 +1,2 @@
-# typescript-lib-template
-A basic typescript pnpm library template
+# svelte-lib-template
+A basic svelte pnpm library template
